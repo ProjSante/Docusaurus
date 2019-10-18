@@ -1,0 +1,17 @@
+{
+	"docs": {
+		"Start Here": [
+			"start-welcome",
+			"start-conduct",
+			"start-contributing",
+			"start-document"
+		],
+		"Devices": [ "doc3" ],
+		"Relays": [ "doc2" ],
+		"WebApp": [ "git-dev-environment", "git-pull-request", "git-gitflow" ],
+		"API": [ "api-routes" ]
+	},
+	"docs-other": {
+		"First Category": [ "doc4", "doc5" ]
+	}
+}
