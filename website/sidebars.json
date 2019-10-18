@@ -8,7 +8,8 @@
 		],
 		"Devices": [ "doc3" ],
 		"Relays": [ "doc2" ],
-		"WebApp": [ "git-dev-environment", "git-pull-request", "git-gitflow" ],
+		"WebApp": [ "git-dev-environment" ],
+		"GitFlow": [ "git-gitflow", "git-pull-request" ],
 		"API": [ "api-routes" ]
 	},
 	"docs-other": {
