@@ -1,4 +1,0 @@
-[submodule "website/build"]
-	path = website/build
-	url = git@github.com:ProjSante/ProjSante.github.io.git
-	branch = master
