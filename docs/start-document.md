@@ -121,7 +121,7 @@ Be sure to:
 - If you see any problem do **not** fix it, submit an issue instead
 - Make logical commit blocks
 
-## 5. Deploy Docs 🚀
+## 6. Deploy Docs 🚀
 There is a 🎩 🐚 script `deploy.sh`.
 
 🔥 up
