@@ -7,7 +7,10 @@ then
 
 	# Create branch 'master' on submodule 'build' and commit
 	# If using bin/bash
-	git submodule add -f -b master git@github.com:ProjSante/ProjSante.github.io.git build # && git commit -m "Build new Docs"
+	git submodule add -f -b master git@github.com:ProjSante/ProjSante.github.io.git build
+
+	# Install node_modules
+	npm install --prefix website
 
 	# Build optimised Docs website
 	npm run build --prefix website
@@ -24,10 +27,7 @@ then
 	# Pushing
 	git push origin master
 
-	# Go to build directory to push
-	cd website/build/site
-
-	# Stage files
-	git add .
+	# Go to root
+	cd ..
 
 fi
