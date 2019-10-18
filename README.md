@@ -5,9 +5,9 @@
 **Real-Time visual information about ER patients's vital signs**
 
 [![docs](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fprojsante.github.io)](https://projsante.github.io/)
-[![closed issues](https://img.shields.io/github/issues-closed-raw/ProjSante/webapp?color=success)](https://github.com/ProjSante/webapp/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed)
-[![open issues](https://img.shields.io/github/issues-raw/ProjSante/webapp)](https://github.com/ProjSante/webapp/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen)
-[![license](https://img.shields.io/github/commit-activity/w/ProjSante/webapp)](https://github.com/ProjSante/webapp/commits/develop)
+[![closed issues](https://img.shields.io/github/issues-closed-raw/ProjSante/Docusaurus?color=success)](https://github.com/ProjSante/Docusaurus/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+)
+[![open issues](https://img.shields.io/github/issues-raw/ProjSante/Docusaurus)](https://github.com/ProjSante/Docusaurus/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen)
+[![commit activity](https://img.shields.io/github/commit-activity/w/ProjSante/Docusaurus)](https://github.com/ProjSante/Docusaurus/commits/develop)
 [![license](https://badgen.now.sh/badge/license/MIT)](./LICENSE)
 
 </div>
