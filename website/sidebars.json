@@ -6,7 +6,7 @@
 			"start-contributing",
 			"start-document"
 		],
-		"Devices": [ "doc3" ],
+		"Devices": [ "device-prototype" ],
 		"Relays": [ "doc2" ],
 		"WebApp": [ "git-dev-environment" ],
 		"GitFlow": [ "git-gitflow", "git-pull-request" ],
