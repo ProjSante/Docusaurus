@@ -5,7 +5,6 @@ title: Prototype
 sidebar_label: Prototype Workflow
 ---
 
-# Prototype
 
 ## Current Status
 Building the Adafruit nRF52 base code / Check the SPB solders
