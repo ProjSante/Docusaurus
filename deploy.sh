@@ -1,6 +1,6 @@
 # Make sure you're on root folder 'docusaurus'
-if [ -d /website ]
-then
+#if [ -d /website ]
+#then
 
 	# Remove existing build folder
 	rm -fr website/build
@@ -30,4 +30,4 @@ then
 	# Go to root
 	cd ..
 
-fi
+#fi
