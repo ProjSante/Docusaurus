@@ -7,7 +7,7 @@
 			"start-document"
 		],
 		"Devices": [ "device-prototype" ],
-		"Relays": [ "doc2" ],
+		"Relays": [ "Relays" ],
 		"WebApp": [ "git-dev-environment" ],
 		"GitFlow": [ "git-gitflow", "git-pull-request" ],
 		"API": [ "api-routes" ]
